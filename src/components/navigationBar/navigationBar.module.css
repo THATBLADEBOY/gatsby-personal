@@ -1,0 +1,11 @@
+.container {
+    max-width: 600px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.navLink {
+    text-decoration: none;
+}

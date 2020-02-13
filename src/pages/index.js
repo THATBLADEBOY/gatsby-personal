@@ -1,3 +1,9 @@
 import React from "react"
+import NavigationBar from "../components/navigationBar/NavigationBar";
 
-export default () => <div>Hello world!</div>
+export default () =>  (
+    <>
+        <NavigationBar />
+        <h1>austin blade</h1>
+    </>
+)
